@@ -1,5 +1,3 @@
-package Strings;
-
 public class AnagramCheck {
 
     public static boolean isAnagram(String s1, String s2) {
